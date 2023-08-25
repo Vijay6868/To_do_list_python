@@ -1,0 +1,42 @@
+{
+    "oracledevtools.connections": [
+        {
+            "authenticationType": 2,
+            "dBAPrivilege": "None",
+            "userID": "NORTHWIND",
+            "passwordSaved": false,
+            "dataSource": "localhost:1521/xe",
+            "connectionType": 2,
+            "databaseHostName": "localhost",
+            "databasePortNumber": "1521",
+            "databaseServiceName": "xe",
+            "tnsAdmin": "C:\\Users\\saroy\\Oracle\\network\\admin",
+            "name": "NORTHWIND.xe",
+            "color": "none",
+            "currentSchema": "",
+            "addSettingsScopeToConnectionName": false,
+            "addCurrentSchemaToConnectionName": false,
+            "filters": [],
+            "useCompatibleNamesDirectoryPath": true
+        },
+        {
+            "authenticationType": 2,
+            "dBAPrivilege": "None",
+            "userID": "WALLACE",
+            "passwordSaved": false,
+            "dataSource": "localhost:1521/xe",
+            "connectionType": 2,
+            "databaseHostName": "localhost",
+            "databasePortNumber": "1521",
+            "databaseServiceName": "xe",
+            "tnsAdmin": "C:\\Users\\saroy\\Oracle\\network\\admin",
+            "name": "WALLACE.xe",
+            "color": "none",
+            "currentSchema": "",
+            "addSettingsScopeToConnectionName": false,
+            "addCurrentSchemaToConnectionName": false,
+            "filters": [],
+            "useCompatibleNamesDirectoryPath": true
+        }
+    ]
+}
